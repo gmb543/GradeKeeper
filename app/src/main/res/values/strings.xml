@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GradeKeeper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_view_grades">ViewGrades</string>
+    <string name="title_activity_add_new_course1">AddNewCourse1</string>
+    <string name="title_activity_add_new_course2">AddNewCourse2</string>
+    <string name="title_activity_home">Home</string>
+</resources>
