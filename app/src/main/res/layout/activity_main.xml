@@ -25,7 +25,8 @@
         android:text="Start"
         android:id="@+id/startButton"
         android:layout_marginBottom="168dp"
-        android:background="#ff14a817"
+        android:background="#ff2ba89f"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffffff" />
 </RelativeLayout>

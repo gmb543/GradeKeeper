@@ -68,15 +68,7 @@
         android:layout_alignLeft="@+id/percentTest"
         android:layout_alignStart="@+id/percentTest" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Next -->"
-        android:id="@+id/nextButton"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:singleLine="true"
-        android:background="#ff2ba89f" />
+
 
 
 </RelativeLayout>

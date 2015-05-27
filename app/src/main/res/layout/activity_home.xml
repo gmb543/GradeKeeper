@@ -16,7 +16,7 @@
         android:layout_marginBottom="105dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:background="#ff14a817" />
+        android:background="#ff2ba89f" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -27,7 +27,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="37dp"
-        android:background="#ff14a817" />
+        android:background="#ff2ba89f" />
 
     <TextView
         android:layout_width="wrap_content"
